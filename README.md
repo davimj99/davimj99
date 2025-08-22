@@ -1,7 +1,7 @@
 ### Oi eu sou o Davi Luiz Souza, bem vindos ao meu cantinho no Github.
 
 - 💻 Hoje trabalho como Full Stack.
-- 🖥️ Estudando :Python/Django , PhP/Larável - Back-And
+- 🖥️ Estudando :Python/Django , PhP/Laravel - Back-And
 - 🖥️ Angular - Front-End
 - 🔍 Sempre em busca de conhecimento.
 
