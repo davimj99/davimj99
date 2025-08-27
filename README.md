@@ -33,7 +33,7 @@
 
 <img aling="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
-
+![Snake animation](https://github.com/davimj99/davimj99/blob/output/github-contribution-grid-snake.svg)
 
 ## Estudante de Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia e inovação
 
