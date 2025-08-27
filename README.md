@@ -5,10 +5,10 @@
 ---
 
 ## 💻 Sobre mim
-- 🔹 Atualmente trabalho como **Full Stack Developer**  
-- 🔹 Estudando **Python/Django**, **PHP/Laravel** (Back-End) e **Angular** (Front-End)  
-- 🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 🔹 Apaixonado por **tecnologia, inovação e aprendizado constante**  
+🔹 Atualmente trabalho como **Full Stack Developer**  
+🔹 Estudando **Python/Django**, **PHP/Laravel** (Back-End) e **Angular** (Front-End)  
+🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🔹 Apaixonado por **tecnologia, inovação e aprendizado constante**  
 
 ---
 
