@@ -43,16 +43,16 @@
 ---
 
 ## 🏢 Experiência
-- **ISCON** – Desenvolvedor Full Stack
+ **ISCON** – Desenvolvedor Full Stack
 
 ---
 
 ## 📫 Contato
-- ✉️ davisouza.pro@hotmail.com  
-- ✉️ davisouza.pro1@gmail.com
+✉️ davisouza.pro@hotmail.com  
+✉️ davisouza.pro1@gmail.com
 
 ---
 
 ## 🐍 Fun fact
-Adoro **Python**, então minha mascote no GitHub é a **cobra** 🐍!  
+**Python** 🐍!  
 Sempre buscando deixar o código elegante e eficiente.
