@@ -55,7 +55,7 @@
 ---
 ## 🐍 Minhas Contribuições
 <div align="center">
-  <img src="https://github.com/users/davimj99/contributions.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davimj99&repo=davimj99&theme=dark" />
 </div>
 
 
