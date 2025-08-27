@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://github.com/davimj99.png" alt="Avatar" width="150" style="border-radius:50%;" />
   <p>🐍 Full Stack Developer | Apaixonado por Python, Django, PHP e Angular</p>
+
+  <!-- Snake animation -->
+  <img src="https://github.com/davimj99/davimj99/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
