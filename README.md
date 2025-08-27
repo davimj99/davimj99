@@ -53,7 +53,15 @@
 ✉️ davisouza.pro1@gmail.com
 
 ---
+## 🐍 Minhas Contribuições
+<div align="center">
+  <img src="https://raw.githubusercontent.com/davimj99/davimj99/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
-## 🐍 Fun fact
-**Python** 🐍!  
-Sempre buscando deixar o código elegante e eficiente.
+
+## 💡 Curiosidades
+- 🚀 Sempre aprendendo novas tecnologias
+- 🖥️ Amo backend mas também curto brincar com frontend
+- 🎮 Gamer nas horas vagas
+- ☕ Café é meu combustível diário
+
