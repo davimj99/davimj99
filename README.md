@@ -1,7 +1,9 @@
 # Olá, eu sou o Davi Luiz Souza 👋
 <div align="center">
-  <img src="https://github.com/davimj99.png" alt="Avatar" width="150" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/davimj99/davimj99/main/assets/avatar_davi.jpeg" 
+       alt="Avatar do Davi" width="150" style="border-radius:50%; box-shadow:0 2px 10px rgba(0,0,0,.2);" />
   <p>🐍 Full Stack Developer | Apaixonado por Python, Django, PHP e Angular</p>
+</div>
 ---
 
 ## 💻 Sobre mim
