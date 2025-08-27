@@ -22,19 +22,10 @@
 
 ---
 
-## 🛠 Tecnologias que uso no dia a dia
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+## 🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,javascript,react,html,css,git,github,mysql,postgresql,vscode" />
 </div>
 
 ---
@@ -44,12 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=davimj99&show_icons=true&theme=dark" alt="Davi GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&hide_progress=true&theme=dark" alt="Davi Languages" />
 </div>
-
-## 🧰 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,javascript,react,html,css,git,github,mysql,postgresql,vscode" />
-</div>
-
 
 ## 📌 Detalhes do Perfil
 <div align="center">
