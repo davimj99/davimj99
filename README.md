@@ -10,10 +10,10 @@
 ---
 
 ## 💻 Sobre mim
-- 🔹 **Cargo atual:** Full Stack Developer  
-- 🔹 **Estudos:** Python/Django, PHP/Laravel (Back-End) e Angular (Front-End)  
-- 🔹 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas  
-- 🔹 **Paixões:** Tecnologia, inovação e aprendizado constante  
+ 🔹 **Cargo atual:** Full Stack Developer  
+ 🔹 **Estudos:** Python/Django, PHP/Laravel (Back-End) e Angular (Front-End)  
+ 🔹 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas  
+ 🔹 **Paixões:** Tecnologia, inovação e aprendizado constante  
 
 ---
 
