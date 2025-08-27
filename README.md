@@ -45,6 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&hide_progress=true&theme=dark" alt="Davi Languages" />
 </div>
 
+## 🧰 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,javascript,react,html,css,git,github,mysql,postgresql,vscode" />
+</div>
+
+
 ## 📌 Detalhes do Perfil
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimj99&theme=github_dark" alt="Davi Profile Details" />
