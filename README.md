@@ -44,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=davimj99&show_icons=true&theme=dark" alt="Davi GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&hide_progress=true&theme=dark" alt="Davi Languages" />
 </div>
+
 ## 📌 Detalhes do Perfil
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimj99&theme=github_dark" alt="Davi Profile Details" />
