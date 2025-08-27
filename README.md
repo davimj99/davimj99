@@ -37,9 +37,18 @@
 ---
 
 ## 📊 Estatísticas no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davimj99&show_icons=true&theme=dark" alt="Davi GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&hide_progress=true&theme=dark" alt="Davi Languages" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+
+  <!-- Estatísticas -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=davimj99&show_icons=true&theme=dark" alt="Davi GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&hide_progress=true&theme=dark" alt="Davi Languages" />
+  </div>
+
+  <!-- GIF lateral -->
+  <div>
+    <img src="./git.gif" alt="Git GIF" width="150" style="border-radius:10px; box-shadow:0 2px 10px rgba(0,0,0,.2);" />
+  </div>
 </div>
 
 <div align="center">
