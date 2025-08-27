@@ -4,24 +4,30 @@
        alt="Avatar do Davi" 
        width="150" 
        style="border-radius:50%; box-shadow:0 2px 10px rgba(0,0,0,.2);" />
-  <p>🐍 Full Stack Developer | Apaixonado por Python/Django, PHP/Laravel e Angular</p>
+  <h3>🐍 Full Stack Developer | Apaixonado por Python/Django, PHP/Laravel e Angular</h3>
 </div>
 
+---
 
 ## 💻 Sobre mim
-🔹 Atualmente trabalho como **Full Stack Developer**  
-🔹 Estudando **Python/Django**, **PHP/Laravel** (Back-End) e **Angular** (Front-End)  
-🔹 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🔹 Apaixonado por **tecnologia, inovação e aprendizado constante**  
+- 🔹 **Cargo atual:** Full Stack Developer  
+- 🔹 **Estudos:** Python/Django, PHP/Laravel (Back-End) e Angular (Front-End)  
+- 🔹 **Formação:** Estudante de Análise e Desenvolvimento de Sistemas  
+- 🔹 **Paixões:** Tecnologia, inovação e aprendizado constante  
 
 ---
 
 ## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisouza99)  
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](http://codepen.io/Davidbill_)
+<p align="center">
+  <a href="https://www.linkedin.com/in/davisouza99">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="http://codepen.io/Davidbill_">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen">
+  </a>
+</p>
 
 ---
-
 
 ## 🧰 Tech Stack
 <div align="center">
@@ -36,7 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&hide_progress=true&theme=dark" alt="Davi Languages" />
 </div>
 
-## 📌 Detalhes do Perfil
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimj99&theme=github_dark" alt="Davi Profile Details" />
 </div>
@@ -44,24 +49,27 @@
 ---
 
 ## 🏢 Experiência
- **ISCON** – Desenvolvedor Full Stack
+**ISCON** – Desenvolvedor Full Stack  
+
+- Desenvolvimento de aplicações web completas (front-end e back-end)  
+- Implementação de soluções escaláveis e manutenção de sistemas existentes  
 
 ---
 
 ## 📫 Contato
-✉️ davisouza.pro@hotmail.com  
-✉️ davisouza.pro1@gmail.com
+- ✉️ [davisouza.pro@hotmail.com](mailto:davisouza.pro@hotmail.com)  
+- ✉️ [davisouza.pro1@gmail.com](mailto:davisouza.pro1@gmail.com)  
 
 ---
-## 🐍 Minhas Contribuições
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=davimj99&repo=davimj99&theme=dark" />
-</div>
-
 
 ## 💡 Curiosidades
-- 🚀 Sempre aprendendo novas tecnologias
-- 🖥️ Amo backend mas também curto brincar com frontend
-- 🎮 Gamer nas horas vagas
-- ☕ Café é meu combustível diário
+- 🚀 Sempre explorando novas tecnologias  
+- 🖥️ Apaixonado por backend, mas também curto brincar com frontend  
+- 🎮 Gamer nas horas vagas  
+- ☕ Café é meu combustível diário  
 
+---
+
+<div align="center">
+  <em>“A vida é aprendizado contínuo, e o código é a minha paixão.”</em>
+</div>
