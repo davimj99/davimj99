@@ -72,10 +72,10 @@
 ---
 
 ## 💡 Curiosidades
-- 🚀 Sempre explorando novas tecnologias  
-- 🖥️ Apaixonado por backend, mas também curto brincar com frontend  
-- 🎮 Gamer nas horas vagas  
-- ☕ Café é meu combustível diário  
+--> 🚀 Sempre explorando novas tecnologias  
+--> 🖥️ Apaixonado por backend, mas também curto brincar com frontend  
+--> 🎮 Gamer nas horas vagas  
+--> ☕ Café é meu combustível diário  
 
 ---
 
