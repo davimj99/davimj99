@@ -16,7 +16,7 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 # 👨‍💻 Sobre mim
 
-- 🎓 Graduado **Análise e Desenvolvimento de Sistemas**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 💼 Desenvolvedor Full Stack na **Faculdade ISCON**
 - 🚀 Focado em Back-end com **Python, Django, FastAPI e Java**
 - 🌱 Atualmente estudando **Java, Spring Boot, Docker e AWS**
@@ -54,33 +54,11 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=davimj99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimj99&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
-
-</div>
-
----
-
 # 📈 Atividade
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=davimj99&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📑 Resumo do Perfil
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davimj99&theme=tokyonight"/>
 
 </div>
 
@@ -104,10 +82,10 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 **Desenvolvedor Full Stack**
 
 - Desenvolvimento de aplicações web
-- APIs REST
+- Desenvolvimento de APIs REST
 - Desenvolvimento Front-end e Back-end
-- Banco de Dados SQL
-- Correção de bugs e manutenção
+- Modelagem e manutenção de bancos de dados SQL
+- Correção de bugs e manutenção de sistemas
 - Implantação de novas funcionalidades
 
 ---
@@ -128,9 +106,8 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 📧 **davisouza.pro@hotmail.com**
 
-💼 LinkedIn
-
-www.linkedin.com/in/davisouza99
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/davisouza99
 
 ---
 
@@ -140,7 +117,7 @@ www.linkedin.com/in/davisouza99
 - 📖 Gosto de transformar teoria em projetos reais.
 - 💡 Curioso por arquitetura de software.
 - 🎮 Gamer nas horas vagas.
-- ☕ Café e código são uma ótima combinação.
+- ☕ Café é meu combustível para programar.
 
 ---
 
