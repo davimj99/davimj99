@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Python+%7C+Django+%7C+FastAPI;Java+%7C+Spring+Boot%+Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Python+%7C+Django+%7C+FastAPI;Java+%7C+Spring+Boot;Angular;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
@@ -46,7 +46,7 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,django,fastapi,php,laravel,angular,html,css,js,docker,aws,mysql,postgresql,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,fastapi,angular,html,css,js,docker,aws,postgresql,git,github,idea,vscode&perline=8"/>
 
 </div>
 
@@ -64,8 +64,8 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 </div>
 
+ ([Platane/snk](https://github.com/Platane/snk))
 
----
 
 ## 🚀 Projetos em Destaque
 
