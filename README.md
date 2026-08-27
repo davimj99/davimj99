@@ -64,7 +64,6 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 </div>
 
- ([Platane/snk](https://github.com/Platane/snk))
 
 
 ## 🚀 Projetos em Destaque
