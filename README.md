@@ -18,7 +18,7 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 💼 Desenvolvedor Full Stack na **Faculdade ISCON**
-- 🚀 Focado em Back-end com **Python, Django, FastAPI e Java**
+- 🚀 Focado em Back-end com **Python; Django; FastAPI; Java; Spring Bootg;**
 - 🌱 Atualmente estudando **Java, Spring Boot, Docker e AWS**
 - ❤️ Apaixonado por tecnologia, arquitetura de software e aprendizado contínuo
 
@@ -63,32 +63,6 @@ Apaixonado por desenvolver soluções modernas, escaláveis e de alta qualidade.
 <img src="https://raw.githubusercontent.com/davimj99/davimj99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
-
-
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Tecnologias |
-|---|---|
-| 🛒 **TechNova Store** | Django • Python • Bootstrap |
-| 📚 **Maratona Java** | Java |
-| 🏫 **Portal ISCON** | PHP • Laravel • Angular |
-| 🤖 **Automações Python** | Python |
-
----
-
-## 💼 Experiência
-
-### Faculdade ISCON — Desenvolvedor Full Stack
-
-- Desenvolvimento de aplicações web
-- Desenvolvimento de APIs REST
-- Desenvolvimento Front-end e Back-end
-- Modelagem e manutenção de bancos de dados SQL
-- Correção de bugs e manutenção de sistemas
-- Implantação de novas funcionalidades
-
----
 
 ## 📚 Atualmente estudando
 
